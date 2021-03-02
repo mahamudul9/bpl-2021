@@ -1,0 +1,11 @@
+.player{
+    display: flex;
+    padding:20px;
+    margin-left: 20%;
+    border: 1px solid grey;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 5px solid grey;
+}
+img{
+    height: 200px;
+}
